@@ -10,3 +10,6 @@
 [![N|Solid](./img/Screenshot_1.png)
 [![N|Solid](./img/Screenshot_2.png)
 [![N|Solid](./img/Screenshot_3.png)
+[![N|Solid](./img/Screenshot_4.png)
+[![N|Solid](./img/Screenshot_5.png)
+[![N|Solid](./img/Screenshot_6.png)
