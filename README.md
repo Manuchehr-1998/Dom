@@ -7,4 +7,6 @@
 > Когда веб-страница загружается, браузер создает объектную модель документа страницы .
 
 Модель HTML DOM построена как дерево объектов :
-[![N|Solid]()
+[![N|Solid](./img/Screenshot_1.png)
+[![N|Solid](./img/Screenshot_2.png)
+[![N|Solid](./img/Screenshot_3.png)
